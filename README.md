@@ -1,2 +1,2 @@
-# Calculator-MVC
-multiple instances
+# calculatorMC
+MVC
